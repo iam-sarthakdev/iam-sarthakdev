@@ -112,11 +112,17 @@
 
 ---
 
-## 🏅 LeetCode Badges & GitHub Trophies
+## 🏅 LeetCode Milestones & GitHub Trophies
 
 <p align="center">
   <a href="https://leetcode.com/Sarthak_79" target="_blank">
-    <img src="https://leetcode-badge.vercel.app/api?username=Sarthak_79&theme=dark" alt="LeetCode Badges" />
+    <img src="https://img.shields.io/badge/LeetCode-Knight_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
+  </a>
+  <a href="https://leetcode.com/Sarthak_79" target="_blank">
+    <img src="https://img.shields.io/badge/Max_Rating-1834-FFA116?style=for-the-badge" alt="Max Rating" />
+  </a>
+  <a href="https://leetcode.com/Sarthak_79" target="_blank">
+    <img src="https://img.shields.io/badge/Global_Rank-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" />
   </a>
 </p>
 
