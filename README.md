@@ -36,14 +36,11 @@
 
 ---
 
-## 📊 Coding Profiles & Stats
+## 📊 GitHub Consistency & Streaks
 
 <p align="center">
   <a href="https://github.com/iam-sarthakdev">
-    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
-  <a href="https://github.com/iam-sarthakdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
   </a>
 </p>
 
@@ -93,19 +90,20 @@
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/iam-sarthakdev/FAANG-Forge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-sarthakdev&repo=FAANG-Forge&theme=tokyonight&hide_border=true" alt="FAANG-Forge" width="48%" />
-  </a>
-  <a href="https://github.com/iam-sarthakdev/MockMate-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-sarthakdev&repo=MockMate-AI&theme=tokyonight&hide_border=true" alt="MockMate AI" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/iam-sarthakdev/DevSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-sarthakdev&repo=DevSync&theme=tokyonight&hide_border=true" alt="DevSync" width="48%" />
-  </a>
-</p>
+### 🛠️ [FAANG-Forge — Interview Preparation Platform](https://github.com/iam-sarthakdev/FAANG-Forge)
+* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem-revisit workflows for **25+ registered users**.
+* **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure **7,715+ company-tagged problems**.
+* *Tech Stack:* `React`, `Node.js`, `Express`, `MongoDB`, `JWT`
+
+### 🎙️ [MockMate AI — AI Voice Interview Coach](https://github.com/iam-sarthakdev/MockMate-AI)
+* **Low-Latency Synch:** Developed a real-time, bi-directional audio streaming architecture using WebSockets for seamless vocal data exchange.
+* **State Verification:** Implemented secure stateful session persistence and user metrics tracking via NextAuth.js.
+* *Tech Stack:* `Next.js 14`, `TypeScript`, `VAPI`, `MongoDB Atlas`
+
+### 💻 [DevSync — Real-Time Collaborative IDE](https://github.com/iam-sarthakdev/DevSync)
+* **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
+* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
+* *Tech Stack:* `Next.js`, `TypeScript`, `Socket.io`, `Piston API`
 
 ---
 
