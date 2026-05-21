@@ -6,6 +6,12 @@
   <b>Software Engineer | Deep Algorithmic Problem Solving | Low-Latency Backend Systems</b>
 </p>
 
+<p align="center">
+  <a href="Sarthak_Kanoi_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 <br>
 
 ## 👨‍💻 About me
@@ -18,11 +24,10 @@
         <li>⚔️ <b>Knight</b> on LeetCode <i>(Top 8% Globally)</i></li>
         <li>💻 Currently focusing on Advanced Data Structures & Core Software Engineering</li>
         <li>🛠️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
-        <li>✉️ Connect & Resume: 
+        <li>✉️ Connect with me: 
           <br>
           <a href="mailto:work.sarthak17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
           <a href="https://www.linkedin.com/in/sarthak-kanoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-          <a href="Sarthak_Kanoi_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
         </li>
       </ul>
     </td>
@@ -107,7 +112,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 LeetCode Badges & GitHub Trophies
+
+<p align="center">
+  <a href="https://leetcode.com/Sarthak_79" target="_blank">
+    <img src="https://leetcode-badge.vercel.app/api?username=Sarthak_79&theme=dark" alt="LeetCode Badges" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
