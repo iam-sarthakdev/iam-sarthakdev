@@ -16,8 +16,6 @@
 
 ## 👨‍💻 About me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="35" align="center" /> About Me
-
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
