@@ -129,24 +129,33 @@
 ## 🏅 LeetCode Achievements
 
 <div align="center">
-  <a href="https://leetcode.com/Sarthak_79" target="_blank" style="text-decoration: none;">
-    <table>
-      <tr>
-        <td align="center"><b>⚔️ LeetCode Status</b></td>
-        <td align="center"><b>📊 Peak Rating</b></td>
-        <td align="center"><b>🌍 Global Rank</b></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Knight" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/-1834-FFA116?style=for-the-badge" alt="1834" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" /></td>
-      </tr>
-    </table>
-  </a>
+  <table>
+    <tr>
+      <td align="center"><b>⚔️ LeetCode Status</b></td>
+      <td align="center"><b>📊 Peak Rating</b></td>
+      <td align="center"><b>🌍 Global Rank</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/Sarthak_79" target="_blank">
+          <img src="https://img.shields.io/badge/-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Knight" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/Sarthak_79" target="_blank">
+          <img src="https://img.shields.io/badge/-1834-FFA116?style=for-the-badge" alt="1834" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/Sarthak_79" target="_blank">
+          <img src="https://img.shields.io/badge/-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
-
 ---
 
 ## 🏆 GitHub Trophies
