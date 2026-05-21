@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="Sarthak_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1NOOzNdtEumAB0ecdg35bNljKL4Y_MWEu/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
