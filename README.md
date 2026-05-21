@@ -112,22 +112,19 @@
 
 ---
 
-## 🏅 LeetCode Milestones & GitHub Trophies
+## 🏅 LeetCode Badges & GitHub Trophies
 
 <p align="center">
   <a href="https://leetcode.com/Sarthak_79" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Knight_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
-  </a>
-  <a href="https://leetcode.com/Sarthak_79" target="_blank">
-    <img src="https://img.shields.io/badge/Max_Rating-1834-FFA116?style=for-the-badge" alt="Max Rating" />
-  </a>
-  <a href="https://leetcode.com/Sarthak_79" target="_blank">
-    <img src="https://img.shields.io/badge/Global_Rank-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" />
+    <img src="https://leetcode-badge.vercel.app/api?username=Sarthak_79&theme=dark&v=1" alt="LeetCode Badges" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>o-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
