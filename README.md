@@ -15,16 +15,17 @@
     <td width="50%" valign="top">
       <ul>
         <li>🚀 <b>Ranked Candidate Master</b> on Codeforces</li>
+        <li>⚔️ <b>Knight</b> on LeetCode <i>(Top 8% Globally)</i></li>
         <li>💻 Currently focusing on Advanced Data Structures & Core Software Engineering</li>
         <li>🛠️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
         <li>✉️ How to reach me: 
-          <a href="mailto:work.sarthak17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-          <a href="https://linkedin.com/in/sarthak-kanoi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+          <a href="mailto:work.sarthak17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+          <a href="https://www.linkedin.com/in/sarthak-kanoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         </li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://leetcode.com/Sarthak_79">
+      <a href="https://leetcode.com/Sarthak_79" target="_blank">
         <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="100%"/>
       </a>
     </td>
@@ -36,13 +37,17 @@
 ## 📊 Coding Profiles & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sarthakdev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <a href="https://github.com/iam-sarthakdev">
+    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
+  <a href="https://github.com/iam-sarthakdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+  </a>
 </p>
 
 ### 🏆 Codeforces Milestone
 <p align="left">
-  <a href="https://codeforces.com/profile/Sarthak1712">
+  <a href="https://codeforces.com/profile/Sarthak1712" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Candidate_Master-purple?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
   </a>
   <img src="https://img.shields.io/badge/Max_Rating-1919-purple?style=for-the-badge" alt="CF Max Rating" />
