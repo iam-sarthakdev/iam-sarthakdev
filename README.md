@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="Sarthak_Kanoi_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1NOOzNdtEumAB0ecdg35bNljKL4Y_MWEu/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -123,6 +123,27 @@
 ### 💻 [DevSync — Real-Time Collaborative IDE](https://github.com/iam-sarthakdev/DevSync)
 * **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
 * **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
+
+---
+
+## 🏅 LeetCode Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>⚔️ LeetCode Status</b></td>
+      <td align="center"><b>📊 Peak Rating</b></td>
+      <td align="center"><b>🌍 Global Rank</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Knight" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-1834-FFA116?style=for-the-badge" alt="1834" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" /></td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ---
 
