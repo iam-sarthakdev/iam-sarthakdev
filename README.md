@@ -1,8 +1,14 @@
-# Hi 👋, I'm Sarthak Kanoi
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I'm+Sarthak+Kanoi;Codeforces+Candidate+Master;Software+Engineer;Welcome+to+my+Profile!&font=Fira+Code&center=true&width=500&height=50&color=8A2BE2&vCenter=true" alt="Typing SVG">
+</h1>
 
-I'm a Software Engineer with a passion for deep algorithmic problem solving, low-latency concurrent applications, and scalable backend systems.
+<p align="center">
+  <b>Software Engineer | Deep Algorithmic Problem Solving | Low-Latency Backend Systems</b>
+</p>
 
-## About me
+<br>
+
+## 👨‍💻 About me
 
 <table width="100%">
   <tr>
@@ -19,7 +25,7 @@ I'm a Software Engineer with a passion for deep algorithmic problem solving, low
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://leetcode.com/Sarthak_79">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=Sarthak_79&theme=dark" alt="LeetCode Stats" width="100%"/>
+        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="100%"/>
       </a>
     </td>
   </tr>
@@ -30,8 +36,8 @@ I'm a Software Engineer with a passion for deep algorithmic problem solving, low
 ## 📊 Coding Profiles & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-sarthakdev&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sarthakdev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 ### 🏆 Codeforces Milestone
@@ -88,7 +94,7 @@ I'm a Software Engineer with a passion for deep algorithmic problem solving, low
 ## 📂 Featured Projects
 
 ### 🛠️ FAANG-Forge — Interview Preparation Platform
-* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynammic problem-revisit workflows for **25+ registered users**.
+* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem-revisit workflows for **25+ registered users**.
 * **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure **7,715+ company-tagged problems**.
 * *Tech Stack:* `React`, `Node.js`, `Express`, `MongoDB`, `JWT`, `Vercel`
 
@@ -99,12 +105,14 @@ I'm a Software Engineer with a passion for deep algorithmic problem solving, low
 
 ### 💻 DevSync — Real-Time Collaborative IDE
 * **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
-* **Sandbox Execution:** Integrated isolated API instances to sand-box and securely compile runtime environments across **40+ languages**.
+* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
 * *Tech Stack:* `Next.js`, `TypeScript`, `Socket.io`, `Piston API`, `Monaco Editor`
 
 ---
 
-## 🏅 Badges & Milestones
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://leetcode-badge.vercel.app/api?username=Sarthak_79&theme=dark" alt="LeetCode Badges" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
