@@ -18,15 +18,17 @@
         <li>⚔️ <b>Knight</b> on LeetCode <i>(Top 8% Globally)</i></li>
         <li>💻 Currently focusing on Advanced Data Structures & Core Software Engineering</li>
         <li>🛠️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
-        <li>✉️ How to reach me: 
+        <li>✉️ Connect & Resume: 
+          <br>
           <a href="mailto:work.sarthak17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
           <a href="https://www.linkedin.com/in/sarthak-kanoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+          <a href="Sarthak_Kanoi_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
         </li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://leetcode.com/Sarthak_79" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="100%"/>
+        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=baloo" alt="LeetCode Stats" width="100%"/>
       </a>
     </td>
   </tr>
@@ -41,7 +43,7 @@
     <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
   <a href="https://github.com/iam-sarthakdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" width="48%" />
   </a>
 </p>
 
@@ -77,19 +79,12 @@
     </td>
   </tr>
   <tr>
-    <td><b>Frontend:</b></td>
+    <td><b>Tools/Infra:</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools/Infra:</b></td>
-    <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websockets&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -98,20 +93,19 @@
 
 ## 📂 Featured Projects
 
-### 🛠️ FAANG-Forge — Interview Preparation Platform
-* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem-revisit workflows for **25+ registered users**.
-* **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure **7,715+ company-tagged problems**.
-* *Tech Stack:* `React`, `Node.js`, `Express`, `MongoDB`, `JWT`, `Vercel`
-
-### 🎙️ MockMate AI — AI Voice Interview Coach
-* **Low-Latency Synch:** Developed a real-time, bi-directional audio streaming architecture using WebSockets for seamless vocal data exchange.
-* **State Verification:** Implemented secure stateful session persistence and user metrics tracking via NextAuth.js.
-* *Tech Stack:* `Next.js 14`, `TypeScript`, `VAPI`, `MongoDB Atlas`
-
-### 💻 DevSync — Real-Time Collaborative IDE
-* **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
-* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
-* *Tech Stack:* `Next.js`, `TypeScript`, `Socket.io`, `Piston API`, `Monaco Editor`
+<p align="center">
+  <a href="https://github.com/iam-sarthakdev/FAANG-Forge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-sarthakdev&repo=FAANG-Forge&theme=tokyonight&hide_border=true" alt="FAANG-Forge" width="48%" />
+  </a>
+  <a href="https://github.com/iam-sarthakdev/MockMate-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-sarthakdev&repo=MockMate-AI&theme=tokyonight&hide_border=true" alt="MockMate AI" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/iam-sarthakdev/DevSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-sarthakdev&repo=DevSync&theme=tokyonight&hide_border=true" alt="DevSync" width="48%" />
+  </a>
+</p>
 
 ---
 
