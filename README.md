@@ -68,10 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/iam-sarthakdev">
-    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
-  <a href="https://github.com/iam-sarthakdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
   </a>
 </p>
 
