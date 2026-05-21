@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NOOzNdtEumAB0ecdg35bNljKL4Y_MWEu/view?usp=drive_link" target="_blank">
+  <a href="Sarthak_Kanoi_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -23,6 +23,7 @@
         <li>🚀 <b>Ranked Candidate Master</b> on Codeforces</li>
         <li>⚔️ <b>Knight</b> on LeetCode <i>(Top 8% Globally)</i></li>
         <li>💻 Currently focusing on Advanced Data Structures & Core Software Engineering</li>
+        <li>🌱 <b>Currently Exploring:</b> Advanced Graph Algorithms & Distributed System Design</li>
         <li>🛠️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
         <li>✉️ Connect with me: 
           <br>
@@ -32,20 +33,36 @@
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://leetcode.com/Sarthak_79" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=baloo" alt="LeetCode Stats" width="100%"/>
-      </a>
+      <b>⚔️ LeetCode Status</b><br>
+      <img src="https://img.shields.io/badge/-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Knight" /><br><br>
+      <b>📊 Peak Rating</b><br>
+      <img src="https://img.shields.io/badge/-1834-FFA116?style=for-the-badge" alt="1834" /><br><br>
+      <b>🌍 Global Rank</b><br>
+      <img src="https://img.shields.io/badge/-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" />
     </td>
   </tr>
 </table>
 
 ---
 
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## 📊 GitHub Consistency & Streaks
 
 <p align="center">
   <a href="https://github.com/iam-sarthakdev">
-    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
+  <a href="https://github.com/iam-sarthakdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
   </a>
 </p>
 
@@ -98,42 +115,20 @@
 ### 🛠️ [FAANG-Forge — Interview Preparation Platform](https://github.com/iam-sarthakdev/FAANG-Forge)
 * **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem-revisit workflows for **25+ registered users**.
 * **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure **7,715+ company-tagged problems**.
-* *Tech Stack:* `React`, `Node.js`, `Express`, `MongoDB`, `JWT`
 
 ### 🎙️ [MockMate AI — AI Voice Interview Coach](https://github.com/iam-sarthakdev/MockMate-AI)
 * **Low-Latency Synch:** Developed a real-time, bi-directional audio streaming architecture using WebSockets for seamless vocal data exchange.
 * **State Verification:** Implemented secure stateful session persistence and user metrics tracking via NextAuth.js.
-* *Tech Stack:* `Next.js 14`, `TypeScript`, `VAPI`, `MongoDB Atlas`
 
 ### 💻 [DevSync — Real-Time Collaborative IDE](https://github.com/iam-sarthakdev/DevSync)
 * **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
 * **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
-* *Tech Stack:* `Next.js`, `TypeScript`, `Socket.io`, `Piston API`
 
 ---
 
-## 🏅 LeetCode Achievements & GitHub Trophies
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>⚔️ LeetCode Status</b></td>
-      <td align="center"><b>📊 Peak Rating</b></td>
-      <td align="center"><b>🌍 Global Rank</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Knight" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/-1834-FFA116?style=for-the-badge" alt="1834" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" /></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
+## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
-</p>
 </p>
