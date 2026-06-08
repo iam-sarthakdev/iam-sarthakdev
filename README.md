@@ -109,7 +109,7 @@
 
 ## 📂 Featured Projects
 
-### 🚀 [FAANG-Forge — Interview Preparation Platform](YOUR_LIVE_LINK_HERE)
+### 🚀 [FAANG-Forge — Interview Preparation Platform](https://algo-flow-khaki.vercel.app/)
 <p align="left">
   <a href="YOUR_LIVE_LINK_HERE">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
@@ -126,7 +126,7 @@
 
 <br>
 
-### 🤖 [MockMate AI — AI Voice Interview Coach](YOUR_LIVE_LINK_HERE)
+### 🤖 [MockMate AI — AI Voice Interview Coach](https://mockmateai-eight.vercel.app/landingPage)
 <p align="left">
   <a href="YOUR_LIVE_LINK_HERE">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
@@ -143,7 +143,7 @@
 
 <br>
 
-### 💻 [DevSync — Real-Time Collaborative IDE](YOUR_LIVE_LINK_HERE)
+### 💻 [DevSync — Real-Time Collaborative IDE](https://devsync-production-00b7.up.railway.app/)
 <p align="left">
   <a href="YOUR_LIVE_LINK_HERE">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
