@@ -111,7 +111,7 @@
 
 ### 🚀 [FAANG-Forge — Interview Preparation Platform](https://algo-flow-khaki.vercel.app/)
 <p align="left">
-  <a href="YOUR_LIVE_LINK_HERE">
+  <a href="https://algo-flow-khaki.vercel.app/">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/iam-sarthakdev/FAANG-Forge">
@@ -128,7 +128,7 @@
 
 ### 🤖 [MockMate AI — AI Voice Interview Coach](https://mockmateai-eight.vercel.app/landingPage)
 <p align="left">
-  <a href="YOUR_LIVE_LINK_HERE">
+  <a href="https://mockmateai-eight.vercel.app/landingPage">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/iam-sarthakdev/MockMate-AI">
@@ -145,7 +145,7 @@
 
 ### 💻 [DevSync — Real-Time Collaborative IDE](https://devsync-production-00b7.up.railway.app/)
 <p align="left">
-  <a href="YOUR_LIVE_LINK_HERE">
+  <a href="https://devsync-production-00b7.up.railway.app/">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/iam-sarthakdev/DevSync">
