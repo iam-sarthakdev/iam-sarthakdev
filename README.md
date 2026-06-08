@@ -1,39 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I'm+Sarthak+Kanoi;Codeforces+Candidate+Master;Software+Engineer;Welcome+to+my+Profile!&font=Fira+Code&center=true&width=500&height=50&color=8A2BE2&vCenter=true" alt="Typing SVG">
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi,+I+Am+Sarthak+%F0%9F%91%8B;Codeforces+Candidate+Master;LeetCode+Knight+(Top+3%25);Software+Engineer;Low-Latency+Backend+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <b>Software Engineer | Deep Algorithmic Problem Solving | Low-Latency Backend Systems</b>
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NOOzNdtEumAB0ecdg35bNljKL4Y_MWEu/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  <a href="https://personal-portfolio-lakshya22.vercel.app/">
+    <img src="https://img.shields.io/badge/—%20VIEW%20MY%20RESUME-FF5722?style=for-the-badge&logoColor=white" alt="View My Resume" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=iam-sarthakdev&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<br>
+---
 
 ## 👨‍💻 About me
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top" style="border: none;">
       <ul>
-        <li>🚀 <b>Ranked Candidate Master (Peak Rating :1919)</b> on Codeforces</li>
-        <li>⚔️ <b>Knight</b> on LeetCode <i>(Top 3% Globally)</i></li>
-        <li>💻 Currently focusing on Advanced Data Structures & Core Software Engineering</li>
-        <li>🛠️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
-        <li>✉️ Connect with me:
-          <br>
-          <a href="mailto:work.sarthak17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-          <a href="https://www.linkedin.com/in/sarthak-kanoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        </li>
+        <li>🚀 <b>Ranked Candidate Master (Peak Rating: 1919)</b> on Codeforces</li>
+        <li>⚔️ <b>Knight on LeetCode</b> (Top 3% Globally)</li>
+        <li>💡 Currently focusing on <b>Advanced Data Structures & Core Software Engineering</b></li>
+        <li>⚙️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
+        <li>📬 Connect with me: <a href="mailto:sarthak171205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/sarthak-kanoi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://leetcode.com/Sarthak_79" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=baloo" alt="LeetCode Stats" width="100%"/>
+    <td width="40%" valign="top" align="center" style="border: none;">
+      <a href="https://leetcode.com/u/Sarthak_79/">
+        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=Fira%20Code&ext=activity&dummy=99" alt="Sarthak_79 LeetCode Stats" width="100%" />
       </a>
     </td>
   </tr>
@@ -44,59 +43,65 @@
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
 </p>
+
+---
 
 ## 📊 GitHub Consistency & Streaks
 
 <p align="center">
-  <a href="https://github.com/iam-sarthakdev">
-    <img src="https://streak-stats.demolab.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true&dummy=99" alt="GitHub Streaks" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&dummy=99" alt="GitHub Stats" width="49%" />
   </a>
 </p>
 
-### 🏆 Codeforces Milestone
+---
+
+## 🏆 Codeforces Milestone
+
 <p align="left">
-  <a href="https://codeforces.com/profile/Sarthak1712" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Candidate_Master-purple?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
+  <a href="https://codeforces.com/profile/Sarthak1712">
+    <img src="https://img.shields.io/badge/🏆_CODEFORCES-1A1B27?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/CANDIDATE_MASTER-8A2BE2?style=for-the-badge" alt="Candidate Master" />
+    <img src="https://img.shields.io/badge/MAX_RATING-1A1B27?style=for-the-badge" alt="Max Rating" />
+    <img src="https://img.shields.io/badge/1919-8A2BE2?style=for-the-badge" alt="1919" />
   </a>
-  <img src="https://img.shields.io/badge/Max_Rating-1919-purple?style=for-the-badge" alt="CF Max Rating" />
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<table>
+<table width="100%">
   <tr>
-    <td><b>Languages:</b></td>
+    <td width="20%"><b>Languages:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JAVA-FFA500?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
   </tr>
   <tr>
     <td><b>Backend & DB:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
   </tr>
   <tr>
     <td><b>Tools/Infra:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websockets&logoColor=white" />
+      <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/WEBSOCKETS-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
     </td>
   </tr>
 </table>
@@ -105,62 +110,47 @@
 
 ## 📂 Featured Projects
 
-### 🛠️ [FAANG-Forge — Interview Preparation Platform](https://github.com/iam-sarthakdev/FAANG-Forge)
-* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem-revisit workflows for **25+ registered users**.
-* **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure **7,715+ company-tagged problems**.
+### 🚀 [FAANG-Forge — Interview Preparation Platform](https://github.com/iam-sarthakdev/FAANG-Forge)
+* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem revisit workflows for 25+ registered users.
+* **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure 7,715+ company-tagged problems.
 
-### 🎙️ [MockMate AI — AI Voice Interview Coach](https://github.com/iam-sarthakdev/MockMate-AI)
+### 🤖 [MockMate AI — AI Voice Interview Coach](https://github.com/iam-sarthakdev/MockMate-AI)
 * **Low-Latency Synch:** Developed a real-time, bi-directional audio streaming architecture using WebSockets for seamless vocal data exchange.
 * **State Verification:** Implemented secure stateful session persistence and user metrics tracking via NextAuth.js.
 
 ### 💻 [DevSync — Real-Time Collaborative IDE](https://github.com/iam-sarthakdev/DevSync)
 * **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
-* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
+* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across 40+ languages.
 
 ---
 
 ## 🏅 LeetCode Achievements
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>⚔️ LeetCode Status</b></td>
-      <td align="center"><b>📊 Peak Rating</b></td>
-      <td align="center"><b>🌍 Global Rank</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/Sarthak_79" target="_blank">
-          <img src="https://img.shields.io/badge/-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Knight" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/Sarthak_79" target="_blank">
-          <img src="https://img.shields.io/badge/-1834-FFA116?style=for-the-badge" alt="1834" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/Sarthak_79" target="_blank">
-          <img src="https://img.shields.io/badge/-Top_8%25-FFA116?style=for-the-badge" alt="Top 8%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <a href="https://leetcode.com/u/Sarthak_79/">
+    <img src="https://img.shields.io/badge/LeetCode%20Status-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Status" />
+    <img src="https://img.shields.io/badge/Peak%20Rating-1834-007ACC?style=for-the-badge" alt="Peak Rating" />
+    <img src="https://img.shields.io/badge/Global%20Rank-Top%206%25-2kgreen?style=for-the-badge" alt="Global Rank" />
+  </a>
+</p>
 
-<br>
 ---
 
-## 🏅 LeetCode Badges & GitHub Trophies
+## 🏆 LeetCode Badges & GitHub Trophies
 
 <p align="center">
-  <a href="https://leetcode.com/Sarthak_79" target="_blank">
-    <img src="https://leetcode-badge.vercel.app/api?username=Sarthak_79&theme=dark&v=1" alt="LeetCode Badges" />
+  <a href="https://leetcode.com/u/Sarthak_79/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sarthak_79&theme=dark&dummy=99" alt="LeetCode Badges" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/iam-sarthakdev">
+    <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&dummy=99" alt="GitHub Trophies" />
   </a>
 </p>
+
+---
+
+<p align="center">⭐ <i>"Code. Optimize. Build. Repeat."</i></p>
+
