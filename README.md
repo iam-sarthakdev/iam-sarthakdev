@@ -52,13 +52,12 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true&dummy=99" alt="GitHub Streaks" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-sarthakdev&theme=tokyonight&hide_border=true&v=10" alt="GitHub Streaks" width="49%" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=iam-sarthakdev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&dummy=99" alt="GitHub Stats" width="49%" />
+  <a href="https://github.com/iam-sarthakdev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-sarthakdev&theme=tokyonight" alt="GitHub Stats" width="49%" />
   </a>
 </p>
-
 ---
 
 ## 🏆 Codeforces Milestone
