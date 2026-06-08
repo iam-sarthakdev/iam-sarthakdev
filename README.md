@@ -109,29 +109,57 @@
 
 ## 📂 Featured Projects
 
-### 🚀 [FAANG-Forge — Interview Preparation Platform](https://github.com/iam-sarthakdev/FAANG-Forge)
-* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem revisit workflows for 25+ registered users.
-* **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure 7,715+ company-tagged problems.
+### 🚀 [FAANG-Forge — Interview Preparation Platform](YOUR_LIVE_LINK_HERE)
+<p align="left">
+  <a href="YOUR_LIVE_LINK_HERE">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/iam-sarthakdev/FAANG-Forge">
+    <img src="https://img.shields.io/badge/📂_Source_Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
-### 🤖 [MockMate AI — AI Voice Interview Coach](https://github.com/iam-sarthakdev/MockMate-AI)
-* **Low-Latency Synch:** Developed a real-time, bi-directional audio streaming architecture using WebSockets for seamless vocal data exchange.
+> **Tech Stack:** `React` `Node.js` `GraphQL` `MongoDB` `Cron Jobs`
+
+* **Algorithmic Dynamic Intervals:** Engineered a custom-designed spaced-repetition algorithm to calculate dynamic problem revisit workflows for **25+ registered users**.
+* **ETL Pipeline Architecture:** Integrated a robust pipeline utilizing GraphQL APIs to parse and structure **7,715+ company-tagged problems**.
+
+<br>
+
+### 🤖 [MockMate AI — AI Voice Interview Coach](YOUR_LIVE_LINK_HERE)
+<p align="left">
+  <a href="YOUR_LIVE_LINK_HERE">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/iam-sarthakdev/MockMate-AI">
+    <img src="https://img.shields.io/badge/📂_Source_Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+> **Tech Stack:** `Next.js` `WebSockets` `NextAuth.js` `LLM Integration`
+
+* **Low-Latency Synch:** Developed a real-time, bi-directional audio streaming architecture using raw WebSockets for seamless vocal data exchange.
 * **State Verification:** Implemented secure stateful session persistence and user metrics tracking via NextAuth.js.
 
-### 💻 [DevSync — Real-Time Collaborative IDE](https://github.com/iam-sarthakdev/DevSync)
+<br>
+
+### 💻 [DevSync — Real-Time Collaborative IDE](YOUR_LIVE_LINK_HERE)
+<p align="left">
+  <a href="YOUR_LIVE_LINK_HERE">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-8A2BE2?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/iam-sarthakdev/DevSync">
+    <img src="https://img.shields.io/badge/📂_Source_Code-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+> **Tech Stack:** `React` `Socket.io` `Docker` `Express` `Code Execution Engine`
+
 * **State Concurrency:** Architected a multi-room code editor with event-driven state synchronization using Socket.io for concurrent workflows.
-* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across 40+ languages.
+* **Sandbox Execution:** Integrated isolated API instances to sandbox and securely compile runtime environments across **40+ languages**.
 
 ---
 
-## 🏅 LeetCode Achievements
-
-<p align="left">
-  <a href="https://leetcode.com/u/Sarthak_79/">
-    <img src="https://img.shields.io/badge/LeetCode%20Status-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Status" />
-    <img src="https://img.shields.io/badge/Peak%20Rating-1834-007ACC?style=for-the-badge" alt="Peak Rating" />
-    <img src="https://img.shields.io/badge/Global%20Rank-Top%206%25-2kgreen?style=for-the-badge" alt="Global Rank" />
-  </a>
-</p>
 
 ---
 
