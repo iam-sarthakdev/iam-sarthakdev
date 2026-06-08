@@ -60,6 +60,26 @@
 </p>
 ---
 
+## 🏅 LeetCode Achievements & Community Impact
+
+<p align="left">
+  <a href="https://leetcode.com/u/Sarthak_79/">
+    <img src="https://img.shields.io/badge/LeetCode%20Status-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Status" />
+    <img src="https://img.shields.io/badge/Peak%20Rating-1834-007ACC?style=for-the-badge" alt="Peak Rating" />
+    <img src="https://img.shields.io/badge/Global%20Rank-Top%206%25-2kgreen?style=for-the-badge" alt="Global Rank" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/Sarthak_79/">
+    <img src="https://img.shields.io/badge/Community_Views-20K+-0A84FF?style=for-the-badge" alt="LeetCode Views" />
+    <img src="https://img.shields.io/badge/Solutions_Published-231-10B981?style=for-the-badge" alt="Solutions Published" />
+    <img src="https://img.shields.io/badge/Reputation-1K+-F59E0B?style=for-the-badge" alt="Community Reputation" />
+  </a>
+</p>
+
+---
+
 ## 🏆 Codeforces Milestone
 
 <p align="left">
