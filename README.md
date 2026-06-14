@@ -72,8 +72,8 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/Sarthak_79/">
-    <img src="https://img.shields.io/badge/Community_Views-20K+-0A84FF?style=for-the-badge" alt="LeetCode Views" />
-    <img src="https://img.shields.io/badge/Solutions_Published-231-10B981?style=for-the-badge" alt="Solutions Published" />
+    <img src="https://img.shields.io/badge/Community_Views-25K+-0A84FF?style=for-the-badge" alt="LeetCode Views" />
+    <img src="https://img.shields.io/badge/Solutions_Published-400+-10B981?style=for-the-badge" alt="Solutions Published" />
     <img src="https://img.shields.io/badge/Reputation-1K+-F59E0B?style=for-the-badge" alt="Community Reputation" />
   </a>
 </p>
@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/🏆_CODEFORCES-1A1B27?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     <img src="https://img.shields.io/badge/CANDIDATE_MASTER-8A2BE2?style=for-the-badge" alt="Candidate Master" />
     <img src="https://img.shields.io/badge/MAX_RATING-1A1B27?style=for-the-badge" alt="Max Rating" />
-    <img src="https://img.shields.io/badge/1919-8A2BE2?style=for-the-badge" alt="1919" />
+    <img src="https://img.shields.io/badge/1919-8A2BE2?style=for-the-badge" alt="1935" />
   </a>
 </p>
 
