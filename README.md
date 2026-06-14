@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/🏆_CODEFORCES-1A1B27?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     <img src="https://img.shields.io/badge/CANDIDATE_MASTER-8A2BE2?style=for-the-badge" alt="Candidate Master" />
     <img src="https://img.shields.io/badge/MAX_RATING-1A1B27?style=for-the-badge" alt="Max Rating" />
-    <img src="https://img.shields.io/badge/1919-8A2BE2?style=for-the-badge" alt="1935" />
+    <img src="https://img.shields.io/badge/1935-8A2BE2?style=for-the-badge" alt="1935" />
   </a>
 </p>
 
