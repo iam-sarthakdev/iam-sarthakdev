@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi,+I+Am+Sarthak+%F0%9F%91%8B;Codeforces+Candidate+Master;LeetCode+Knight+(Top+6%25);Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Engineer;Codeforces+Candidate+Master;LeetCode+Knight+(Top+3+Percent);Low-Latency+Backend+Systems" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <b>Software Engineer | Deep Algorithmic Problem Solving | Low-Latency Backend Systems</b>
 </p>
 
 <p align="center">
@@ -13,6 +9,10 @@
     <img src="https://img.shields.io/badge/—%20VIEW%20MY%20RESUME-FF5722?style=for-the-badge&logoColor=white" alt="View My Resume" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iam-sarthakdev&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
 </p>
 
 ---
@@ -37,6 +37,30 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts,nodejs,express,react,nextjs,mysql&perline=10" alt="Tech Stack 1" />
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,aws,postman,linux,vercel,firebase&perline=10" alt="Tech Stack 2" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:sarthak171205@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sarthak-kanoi/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
+  <a href="https://codeforces.com/profile/Sarthak1712"><img src="https://img.shields.io/badge/CODEFORCES-1A1B27?style=for-the-badge&logo=codeforces&logoColor=white" height="30" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/Sarthak_79/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="LeetCode" /></a>
+</p>
 
 ---
 
@@ -93,39 +117,10 @@
 
 ---
 
-## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hero Animation" width="100%" style="border-radius: 15px;" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="20%"><b>Languages:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JAVA-FFA500?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & DB:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools/Infra:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/WEBSOCKETS-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📂 Featured Projects
 
