@@ -178,7 +178,7 @@
 
 ---
 
-## 🏆 LeetCode Badges & GitHub Trophies
+## 🏆 LeetCode Badges
 
 <p align="center">
   <a href="https://leetcode.com/u/Sarthak_79/">
@@ -186,13 +186,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/iam-sarthakdev">
-    <img src="https://github-profile-trophy.vercel.app/?username=iam-sarthakdev&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&dummy=99" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
+<br>
 <p align="center">⭐ <i>"Code. Optimize. Build. Repeat."</i></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/main/wave.svg" alt="Wave" width="100%" />
+</p>
