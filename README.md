@@ -4,17 +4,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://personal-portfolio-lakshya22.vercel.app/">
-    <img src="https://img.shields.io/badge/—%20VIEW%20MY%20RESUME-FF5722?style=for-the-badge&logoColor=white" alt="View My Resume" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=iam-sarthakdev&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
 </p>
 
+---
 ---
 
 ## 👨‍💻 About me
@@ -39,6 +35,7 @@
 </table>
 
 ---
+---
 
 ## 🛠️ Languages & Tools
 
@@ -52,6 +49,7 @@
 </p>
 
 ---
+---
 
 ## 🌐 Connect with Me
 
@@ -63,6 +61,7 @@
 </p>
 
 ---
+---
 
 ## 🐍 Contribution Graph Animation
 
@@ -70,6 +69,7 @@
   <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
 </p>
 
+---
 ---
 
 ## 📊 GitHub Consistency & Streaks
@@ -82,6 +82,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-sarthakdev&theme=tokyonight" alt="GitHub Stats" width="49%" />
   </a>
 </p>
+
+---
 ---
 
 ## 🏅 LeetCode Achievements & Community Impact
@@ -103,6 +105,7 @@
 </p>
 
 ---
+---
 
 ## 🏆 Codeforces Milestone
 
@@ -116,10 +119,14 @@
 </p>
 
 ---
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hero Animation" width="100%" style="border-radius: 15px;" />
 </p>
+
+---
+---
 
 
 ## 📂 Featured Projects
