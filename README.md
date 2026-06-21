@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Engineer;Codeforces+Candidate+Master;LeetCode+Knight+(Top+3+Percent);Low-Latency+Backend+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Engineer;Codeforces+Candidate+Master;LeetCode+Knight+(Top+6+Percent+Globally);Building+Low-Latency+Backend+Systems" alt="Typing SVG" />
   </a>
 </p>
 
+---
 ---
 
 <p align="center">
@@ -19,10 +20,10 @@
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <ul>
-        <li>🚀 <b>Ranked Candidate Master (Peak Rating: 1935)</b> on Codeforces</li>
+        <li>🚀 <b>Ranked Candidate Master (Peak Rating: 2052)</b> on Codeforces</li>
         <li>⚔️ <b>Knight on LeetCode</b> (Top 6% Globally)</li>
         <li>💡 Currently focusing on <b>Advanced Data Structures & Core Software Engineering</b></li>
-        <li>⚙️ Ask me about: <b>Java, C++, System Design, and Backend Architecture</b></li>
+        <li>⚙️ Building <b> Scalable Backend Systems and Solving Algorithmic Problems. </b></li>
         <li>📬 Connect with me: <a href="mailto:sarthak171205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/sarthak-kanoi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></li>
       </ul>
     </td>
@@ -114,7 +115,7 @@
     <img src="https://img.shields.io/badge/🏆_CODEFORCES-1A1B27?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     <img src="https://img.shields.io/badge/CANDIDATE_MASTER-8A2BE2?style=for-the-badge" alt="Candidate Master" />
     <img src="https://img.shields.io/badge/MAX_RATING-1A1B27?style=for-the-badge" alt="Max Rating" />
-    <img src="https://img.shields.io/badge/1935-8A2BE2?style=for-the-badge" alt="1935" />
+    <img src="https://img.shields.io/badge/2052-8A2BE2?style=for-the-badge" alt="2052" />
   </a>
 </p>
 
